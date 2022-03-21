@@ -3,7 +3,7 @@ import {useState} from 'react'
 import Search from './components/Search'
 
 
-const API_KEY = "LZQjK66VdE6c0aMBH0jFjAgEgwgBK3Hq"
+const API_KEY = ""
 
 const Home = () => {
   const [gifs, setGifts] = useState([])
